@@ -1,4 +1,4 @@
-This documentation provides a comprehensive guide to deploying a web application, covering MongoDB Atlas setup, API service deployment on Render, and React application deployment on Vercel.
+This documentation provides a comprehensive guide to deploy a web application, covering MongoDB Atlas setup, API service deployment on Render, and React application deployment on Vercel.
 
 ## Connecting with MongoDB Atlas (Database)
 
